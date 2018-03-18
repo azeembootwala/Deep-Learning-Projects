@@ -8,4 +8,4 @@ The script `facial_expression_recognition.py` contains implementations of artifi
 
 ## Dataset
 
-![Facial expression](..(Images/Six-basic-and-neutral-emotions-in-facial-expressions-from-Japanese-Female-Facial.png)  
+![Facial expression](../Images/Six-basic-and-neutral-emotions-in-facial-expressions-from-Japanese-Female-Facial.png)  
