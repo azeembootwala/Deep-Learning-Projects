@@ -7,6 +7,7 @@ The files `CNN_theano_SVHN_AB.py` and `tensorflow_SVHN.py` are *Theano* and *Ten
 
 ## Data-set 
 ![kaggle-svhn](../Images/download.jpeg)
+
 The Data set contains cropped images of street view house numbers for the purpose of classification tasks. 
 
 The implementation is as per the LeNet Architecture adapted to 3-D images. 
