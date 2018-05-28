@@ -16,6 +16,6 @@ Besides this . The folder also contains Artifitial neural networks in pure numpy
 ## Usage
 All code and relevant files can be downloaded. The data files can be donloaded from the links in the root folder. **Please place the data files in the folder large_files**.
 
-## Licence
+## License
 MIT &copy; [Azeem Bootwala](https://www.linkedin.com/in/azeem-bootwala-19906a39/)
 
